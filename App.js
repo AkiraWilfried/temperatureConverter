@@ -27,7 +27,7 @@ export default function App() {
 
   const convertTemperature = () => {
     let temp = parseFloat(inputValue);
-    if (isNaN(temp) || inputValue.trim() === '') {
+    if (isNaN(temp) || inputValue.trim() === '') { 
       setTemperature('0');
       setInputValue('');
       return;
