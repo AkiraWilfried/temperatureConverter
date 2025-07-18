@@ -5,7 +5,7 @@ seoDescription: "Découvrez JavaScript, son interactivité et applications concr
 datePublished: Fri Jul 18 2025 15:17:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmd8yqzlz000802ky7ezdcahi
 slug: partie-1-premiers-pas-avec-javascript
-tags: code, javascript, development, begginers-guide, bigginer
+tags: code, javascript, technology, development, begginers-guide
 
 ---
 
