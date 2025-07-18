@@ -5,6 +5,7 @@ seoDescription: "Découvrez le parcours d'un développeur junior en web et mobil
 datePublished: Wed Jul 02 2025 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcqedj4w001802jld1ik3pxb
 slug: mes-premiers-pas-sur-le-web
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752850661759/c7557269-696b-4027-bef8-f69dbe397d43.jpeg
 tags: development, beginners, frontend-development, figma, debutant, passion
 
 ---
