@@ -5,6 +5,7 @@ seoDescription: "Découvrez JavaScript, son interactivité et applications concr
 datePublished: Fri Jul 18 2025 15:17:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmd8yqzlz000802ky7ezdcahi
 slug: partie-1-premiers-pas-avec-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754456705294/8bd7ba51-e643-4b93-baa3-dd996f8b77fa.png
 tags: code, javascript, technology, development, begginers-guide
 
 ---
@@ -15,7 +16,7 @@ Bienvenue dans cette série **“Le JavaScript pour les débutants”** 😊 Ici
 
 ## Sommaire de la série
 
-🟢 **Partie 1** — Introduction à JavaScript *(tu es ici)*  
+🟢 **Partie 1** — Premiers pas avec JavaScript *(tu es ici)*  
 🔵 Partie 2 — Les variables et types de données  
 🔵 Partie 3 — Les conditions (`if`, `else`)  
 🔵 Partie 4 — Les boucles (`for`, `while`)  
@@ -79,13 +80,13 @@ Mais JS ne se limite pas au navigateur :
 
 Pas besoin d’être un développeur senior ni d’avoir du matériel dernier cri. Pour débuter, il te faut juste :
 
-> Un peu de curiosité, du temps, et l’envie de comprendre comment les choses fonctionnent. On commence simple et on progresse ensemble.
+Un peu de curiosité, du temps, et l’envie de comprendre comment les choses fonctionnent. On commence simple et on progresse ensemble.
 
-### ✅ 1. Quelques notions de HTML/CSS (utile, mais pas obligatoire)
+### 1\. Quelques notions de HTML/CSS (utile, mais pas obligatoire)
 
-### ✅ 2. Un éditeur de code (comme [VS Code](https://code.visualstudio.com/))
+### 2\. Un éditeur de code (comme [VS Code](https://code.visualstudio.com/))
 
-### ✅ 3. Un navigateur (Chrome, Firefox… à ta préférence)
+### 3\. Un navigateur (Chrome, Firefox… à ta préférence)
 
 Pour tester sans installation :
 
